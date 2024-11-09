@@ -1,1 +1,0 @@
-# Earthquake-Prediction-Using-ML
