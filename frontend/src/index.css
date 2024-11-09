@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #121212;
+}
+
+.plotly-graph {
+  width: 100%;
+  height: 100%;
+}
+
+.MuiPickersDay-root {
+  font-size: 1.1rem !important;
+}
+
+.MuiTimePicker-root .MuiClock-clock {
+  background-color: #1e1e1e !important;
+}
